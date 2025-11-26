@@ -33,7 +33,7 @@ export const DATE_AND_TIME = getDateAndTime();
 export const AI_NAME = "ElectiveAssistant";
 export const OWNER_NAME = "KK & Armaan";
 
-export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, an AI assistant to help you choose the right courses`
+export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, your BITSoM elective-planning assistant. Ask me about courses, workload, or how electives align with your career goals.`
 
 export const CLEAR_CHAT_TEXT = "New";
 
