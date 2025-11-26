@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MyAI3",
-  description: "MyAI3",
+  title: "ECHO – Elective Choice Optimization Hub",
+  description: "ECHO: Elective Choice Optimization Hub for BITSoM, helping students choose electives intelligently.",
 };
 
 export default function RootLayout({
